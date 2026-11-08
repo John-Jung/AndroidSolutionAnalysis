@@ -1,4 +1,4 @@
-# Medical Institution Mobile App — AppIron RASP Root Detection Bypass Analysis
+# Medical Institution Mobile App — RASP Root Detection Bypass Analysis
 
 > This document is written with the specific medical institution name, package, and developer identifiers masked.
 
